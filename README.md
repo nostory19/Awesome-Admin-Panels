@@ -75,6 +75,7 @@
 | [ELADMIN](https://github.com/elunez/eladmin) | 基于 SpringBoot + Vue 的后台管理系统 | SpringBoot · Vue · JPA | ![Stars](https://img.shields.io/github/stars/elunez/eladmin?style=social) | — | [📦](https://github.com/elunez/eladmin) |
 | [pig](https://github.com/pig-mesh/pig) | 基于 Spring Cloud 的微服务权限系统 | SpringCloud · Vue · OAuth2 | ![Stars](https://img.shields.io/github/stars/pig-mesh/pig?style=social) | — | [📦](https://github.com/pig-mesh/pig) |
 | [Cloud-Platform](https://github.com/geekidea/spring-cloud-plus) | Spring Cloud 微服务开发平台 | SpringCloud · Vue · MyBatis | ![Stars](https://img.shields.io/github/stars/geekidea/spring-cloud-plus?style=social) | — | [📦](https://github.com/geekidea/spring-cloud-plus) |
+| [Sz-Admin](https://github.com/feiyuchuixue/sz-boot-parent) | 一套开源 RBAC 中后台管理脚手架 | Spring Boot 4、JDK 21、Vue 3 和 Vite 7、MyBatis-Flex、Sa-token |  | [🔗](https://szadmin.cn/) | [📦](https://github.com/feiyuchuixue/sz-boot-parent)  |
 
 ---
 
